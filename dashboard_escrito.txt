@@ -2,65 +2,41 @@
 
 2. Análise Comparativa:
 
-Ação: [PETR4.SA]
-- Preço Inicial (R$): 14.21
-- Preço Final (R$): 31.75
-- Variação (%): 123.41
-- Volume Total: 27659680200
-
 Ação: [VALE3.SA]
-- Preço Inicial (R$): 74.80
-- Preço Final (R$): 52.83
-- Variação (%): -29.37
-- Volume Total: 14866802400
+- Preço Inicial (R$): 32.83
+- Preço Final (R$): 52.13
+- Variação (%): 58.78
+- Volume Total: 37049523600
 
-Ação: [ADBE34.SA]
-- Preço Inicial (R$): 37.48
-- Preço Final (R$): 45.77
-- Variação (%): 22.12
-- Volume Total: 8051295
+Ação: [PETR4.SA]
+- Preço Inicial (R$): 9.67
+- Preço Final (R$): 32.53
+- Variação (%): 236.45
+- Volume Total: 86543877000
 
-Ação: [AERI3.SA]
-- Preço Inicial (R$): 21.40
-- Preço Final (R$): 4.15
-- Variação (%): -80.61
-- Volume Total: 226031690
-
-Ação: [ABBV34.SA]
-- Preço Inicial (R$): 51.41
-- Preço Final (R$): 66.36
-- Variação (%): 29.08
-- Volume Total: 2221338
+Ação: [ITSA4.SA]
+- Preço Inicial (R$): 9.15
+- Preço Final (R$): 10.71
+- Variação (%): 17.04
+- Volume Total: 42311664512
 
 
 3. Dados Fundamentalistas:
-
-Ação: [PETR4.SA]
-- P/L: 8.75
-- P/VP: 1.06
-- ROE: 0.12
-- Dividend Yield: 16.07
 
 Ação: [VALE3.SA]
 - P/L: 6.81
 - P/VP: 1.10
 - ROE: 0.15
-- Dividend Yield: 14.19
+- Dividend Yield: 14.38
 
-Ação: [ADBE34.SA]
-- P/L: 24.85
+Ação: [PETR4.SA]
+- P/L: 8.77
+- P/VP: 1.06
+- ROE: 0.12
+- Dividend Yield: 15.68
+
+Ação: [ITSA4.SA]
+- P/L: 7.76
 - P/VP: 1.34
-- ROE: 0.47
-- Dividend Yield: 0.00
-
-Ação: [AERI3.SA]
-- P/L: 0.00
-- P/VP: 2.28
-- ROE: -1.63
-- Dividend Yield: 0.00
-
-Ação: [ABBV34.SA]
-- P/L: 82.96
-- P/VP: 83.58
-- ROE: 0.88
-- Dividend Yield: 2.46
+- ROE: 0.18
+- Dividend Yield: 7.46

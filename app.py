@@ -1,10 +1,10 @@
 # === Importação das Bibliotecas ===
 
 import streamlit as st
-from projeto import crew_ai_project
+from agentes import crew_ai_project
 from tools import importar_dados_yf, criar_dashboard
 import pandas as pd
-from datetime import datetime # Importar datetime para a data padrão
+from datetime import datetime 
 
 b3 = pd.read_csv("data/AcoesIndices_2025-06-11.csv", sep=";")
 
@@ -12,9 +12,7 @@ b3 = pd.read_csv("data/AcoesIndices_2025-06-11.csv", sep=";")
 
 st.set_page_config(page_title="Crew-AI", layout="wide")
 
-st.title("Crew-AI 📈")
-
-st.header("Análise de Ações da B3")
+st.title("Análise de Ações: B3 📈")
 
 resetar = st.button("Resetar Dashboard")
 
@@ -47,8 +45,6 @@ if not st.session_state.dashboard_gerado:
                 
                 # Força a reexecução do script para entrar no modo "chat"
                 st.rerun()
-
-
 
         else:
             st.warning("Por favor, preencha todos os campos para gerar a análise.")
