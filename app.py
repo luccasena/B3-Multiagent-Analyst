@@ -1,8 +1,8 @@
 # === Importação das Bibliotecas ===
 
 import streamlit as st
-from agentes import crew_ai_project
-from tools import importar_dados_yf, criar_dashboard
+from financial_agents.src.financial_agents.main import crew_ai_project
+from financials import importar_dados_yf, criar_dashboard
 import pandas as pd
 from datetime import datetime 
 
@@ -77,7 +77,11 @@ if st.session_state.dashboard_gerado:
         with st.spinner("O agente está analisando sua pergunta...", show_time=True):
             # Adapte sua função crew_ai_project para receber os dados também, se necessário
             # Ex: resultado = crew_ai_project(prompt, st.session_state.dataset_cotacao, st.session_state.dataset_fund)
-            resultado = crew_ai_project(prompt) 
+
+            with open("financial_agents/knowledge/dashboard_escrito.txt", "r", encoding="UTF-8", ) as arquivo:
+                conteudo = arquivo.read()
+
+            resultado = crew_ai_project(prompt, conteudo) 
 
             # Adiciona a resposta do agente ao histórico e exibe na tela
             st.session_state.messages.append({"role": "assistant", "content": resultado})

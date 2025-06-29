@@ -1,0 +1,30 @@
+
+
+2. Análise Comparativa:
+
+Ação: [VALE3.SA]
+- Preço Inicial (R$): 42.69
+- Preço Final (R$): 52.87
+- Variação (%): 23.85
+- Volume Total: 37320527400
+
+Ação: [PETR4.SA]
+- Preço Inicial (R$): 9.90
+- Preço Final (R$): 31.21
+- Variação (%): 215.41
+- Volume Total: 86942045700
+
+
+3. Dados Fundamentalistas:
+
+Ação: [VALE3.SA]
+- P/L: 7.01
+- P/VP: 1.12
+- ROE: 0.15
+- Dividend Yield: 14.18
+
+Ação: [PETR4.SA]
+- P/L: 8.50
+- P/VP: 1.02
+- ROE: 0.12
+- Dividend Yield: 16.37

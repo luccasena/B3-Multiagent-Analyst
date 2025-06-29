@@ -1,0 +1,52 @@
+tarefa_gerente: 
+  description: >
+    Você é o Gerente de Projeto responsável por interpretar a solicitação inicial do usuário.\n"
+    Analise o seguinte prompt enviado pelo usuário:\n\n
+    {prompt} \n\n
+    Com base nesse texto, gere um **relatório técnico detalhado** que identifique:\n
+    - O problema principal apresentado pelo usuário\n
+    - Os objetivos que o usuário deseja alcançar\n
+    - As informações ou dados necessários para análise\n
+    - Possíveis abordagens de solução que envolvam análise de dados\n\n
+    O objetivo é fornecer um briefing claro para que os demais agentes consigam atuar com precisão.
+  expected_output: >
+    Relatório técnico com diagnóstico do problema, objetivos do usuário e proposta de solução com base em análise de dados.
+  
+  agent: gerente_financeiro
+
+tarefa_analista:
+  description: >
+      "Você é o Analista de Dados.\n
+      Com base no relatório produzido pelo Gerente, realize uma análise exploratória detalhada dos dados contidos no dashboard financeiro fornecido.\n\n
+      Aqui está o conteúdo do dashboard (texto estruturado):\n\n
+      {conteudo} \n\n
+      Realize as seguintes análises:\n
+      - Identifique padrões de variação nos preços das ações\n
+      - Verifique indicadores como média móvel, variação percentual e volume\n
+      - Aponte possíveis anomalias ou comportamentos fora do padrão\n
+      - Gere visualizações (se possível)\n\n
+      Seu objetivo é transformar os dados em um relatório técnico com interpretações claras."
+  expected_output: >
+      Relatório técnico com análise dos dados do dashboard, incluindo estatísticas relevantes, padrões e observações.
+  
+  agent: analista_financeiro
+
+tarefa_consultor:
+  description: >
+      "Você é o Consultor de Negócios.\n
+      Com base no relatório do Gerente (entendimento do problema) e no relatório do Analista (análise dos dados), produza um documento consultivo que forneça **insights estratégicos e recomendações práticas** para o usuário.\n\n
+      Sua análise deve incluir:\n
+      - Principais oportunidades identificadas nos dados\n
+      - Riscos ou alertas relevantes\n
+      - Sugestões de ações ou investimentos com base nas tendências observadas\n
+      - Qualquer recomendação para novos dados a serem analisados ou acompanhados\n\n
+      Use linguagem consultiva, clara e orientada a valor para o usuário final."
+  expected_output: >
+      Relatório consultivo com insights estratégicos e recomendações com base nos dados analisados e necessidades do usuário.
+  
+  agent: consultor_investimentos
+
+  context: 
+  - tarefa_gerente
+  - tarefa_analista
+    

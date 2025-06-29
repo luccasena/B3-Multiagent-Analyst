@@ -33,15 +33,15 @@ def importar_dados_yf(stocks, start_date, end_date):
 
     # Exportar CSVs
     df_prices = pd.concat(historical_data)
-    df_prices.to_csv('data/stock-analysis.csv', index=False)
+    df_prices.to_csv('data/stock-analysis.csv')
     dataset_fundamentals = pd.DataFrame(fundamental_data)
-    dataset_fundamentals.to_csv('data/stock-analysis-fundamentals.csv', index=False)
+    dataset_fundamentals.to_csv('data/stock-analysis-fundamentals.csv')
 
     return df_prices, dataset_fundamentals
 
 def criar_dashboard(dataset_cotacao, dataset_fund):
 
-    dashboard_detalhado = open("dashboard_escrito.txt", encoding='utf-8', mode="w")
+    dashboard_detalhado = open("financial_agents/knowledge/dashboard_escrito.txt", encoding='utf-8', mode="w")
 
     text = f""
     
@@ -147,3 +147,5 @@ def criar_dashboard(dataset_cotacao, dataset_fund):
 
     dashboard_detalhado.write(str(text))
     dashboard_detalhado.close()
+
+    return text
