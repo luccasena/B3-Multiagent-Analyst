@@ -1,19 +1,53 @@
-from crewai.tools import BaseTool
-from typing import Type
+# financial_agents/src/financial_agents/tools/custom_tool.py
+
+from typing import Optional
 from pydantic import BaseModel, Field
+from crewai.tools import BaseTool
+from financials import load_vector_store
 
+class RAGInput(BaseModel):
+    """Schema de entrada da tool (validado pelo Pydantic do CrewAI)."""
+    query: str = Field(..., description="Pergunta a ser buscada no índice FAISS")
 
-class MyCustomToolInput(BaseModel):
-    """Input schema for MyCustomTool."""
-    argument: str = Field(..., description="Description of the argument.")
-
-class MyCustomTool(BaseTool):
-    name: str = "Name of my tool"
+class FAISSRAGTool(BaseTool):
+    """
+    Tool compatível com CrewAI que consulta um índice FAISS já persistido.
+    Carrega o vectorstore uma única vez e usa retriever k=3 por padrão.
+    """
+    name: str = "search_financial_data"
     description: str = (
-        "Clear description for what this tool is useful for, your agent will need this information to use it."
+        "Busca e retorna dados fundamentalistas e informações financeiras "
+        "de um banco vetorial FAISS previamente indexado."
     )
-    args_schema: Type[BaseModel] = MyCustomToolInput
 
-    def _run(self, argument: str) -> str:
-        # Implementation goes here
-        return "this is an example of a tool output, ignore it and move along."
+    # schema dos argumentos aceitos pela tool
+    args_schema: type = RAGInput
+
+    # Campos internos (não expostos) para manter o retriever em memória
+    _vectorstore = None
+    _retriever = None
+
+    # Pydantic v2: inicialização pós-construção do modelo
+    def model_post_init(self, __context) -> None:  # type: ignore[override]
+
+        if self._vectorstore is None:
+            self._vectorstore = load_vector_store()
+
+        if self._retriever is None:
+            # ajuste seus kwargs aqui (similarity / mmr)
+            self._retriever = self._vectorstore.as_retriever(
+                search_type="similarity", search_kwargs={"k": 3}
+            )
+
+    # Método síncrono chamado pelo CrewAI quando a tool é usada
+    def _run(self, query: str) -> str:  # CrewAI chama _run para execução síncrona
+        if not query or not query.strip():
+            return "Query vazia. Forneça uma pergunta clara para a busca."
+
+        try:
+            docs = self._retriever.get_relevant_documents(query)  # type: ignore[attr-defined]
+        except Exception as e:
+            return f"Falha ao consultar o índice FAISS: {e}"
+
+        # Concatena o conteúdo básico dos documentos; ajuste conforme seu caso
+        return "\n\n".join(d.page_content for d in docs)

@@ -3,7 +3,6 @@ import sys
 import warnings
 
 from datetime import datetime
-
 from financial_agents.src.financial_agents.crew_ai import FinancialAgents
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
@@ -16,7 +15,7 @@ warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 def crew_ai_project(prompt, conteudo):
 
     crew_instance = FinancialAgents()
-
+    
     result = crew_instance.crew().kickoff(inputs={
                                                     "prompt": prompt,
                                                     "conteudo": conteudo

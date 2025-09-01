@@ -1,0 +1,429 @@
+Letra: A
+Ação: Uma ação representa uma fração do capital social de uma empresa. 
+
+Ação ordinária: Ações ordinárias (ON) dão ao acionista o direito de voto em assembleias. 
+
+Ação preferencial: As ações preferenciais nominativas (PN) têm preferência na hora da distribuição dos dividendos. 
+
+ACC: Adiantamento sobre Contratos de Câmbio. Financiamento na fase de produção ou pré-embarque. O exportador celebra com um banco autorizado um contrato de câmbio no valor correspondente às exportações que deseja financiar. 
+
+ACE: Adiantamento sobre Cambiais Entregues. Mecanismo similar ao ACC, só que contratado na fase de comercialização ou pós-embarque. Após o embarque dos bens, o exportador entrega os documentos da exportação e as cambiais (saques) da operação ao banco e celebra um contrato de câmbio para liquidação futura. Então, o exportador pede ao banco o adiantamento do valor em reais correspondente ao contrato de câmbio. 
+
+ADR: American Depositary Receipts. São certificados representativos de ações ou de outros valores mobiliários que representam direitos e ações, emitidos no exterior por instituição denominada “depositária”, com lastro em valores mobiliários de emissão de empresas brasileiras depositados em custódia específica no Brasil. 
+
+ADTV: Average Daily Traded Volume. Volume médio diário negociado. 
+
+Ágio: Prêmio obtido pelo vendedor de um título em relação ao valor ao par, definido no contrato de remuneração do título. 
+
+Alavancagem: Operações de compra e venda de ativos, títulos e valores mobiliários para liquidação no futuro, com depósito prévio de margens de garantia. Um fundo é considerado alavancado sempre que existir possibilidade (diferente de zero) de perda superior ao patrimônio do fundo, desconsiderando-se casos de falha no pagamento de principal ou de juros relativos aos ativos do fundo. 
+
+Alienação: Transferência ou cessão de bens. 
+
+Amortização: A amortização é o processo de diminuição gradual do valor total de uma dívida através de pagamentos sucessivos. 
+
+Análise fundamentalista: A análise fundamentalista é uma avaliação da situação financeira, mercadológica e econômica de uma empresa, de países, regiões ou até mesmo de commodities. Essa metodologia inclui um amplo espectro de análises. Por isso, podemos dizer que a análise fundamentalista ajuda o investidor a entender o valor de uma empresa e seu potencial de rendimento – e não apenas o preço de suas ações no momento. 
+
+Análise técnica: Análise técnica é um método usado por profissionais do mercado financeiro e investidores em geral para tentar prever o caminho dos preços e do fluxo de um determinado ativo financeiro, com uma lógica que estabelece probabilidades a partir de imagens, tendências e padrões consultados em gráficos ao longo do tempo. Por isso, ela também pode ser chamada de Análise gráfica. 
+
+Apólice: Documento, certificado escrito de uma obrigação mercantil. 
+
+Ativos: Bens e direitos possuídos por uma empresa ou fundo de investimento. Para fundos de investimento, representam todos os títulos que compõem a carteira do fundo. 
+
+Aumento de capital: Incorporação de novos recursos (ou reservas) ao capital da empresa. 
+
+Letra: B
+B2B: “Business to Business”, ou, em português, transação de empresa com empresa. 
+
+B2C: “Business to Consumer”, ou, em português, transação de empresa com consumidor. 
+
+Bacen: Banco Central do Brasil. O objetivo do BC é garantir a estabilidade do poder de compra da moeda, zelar por um sistema financeiro sólido, eficiente e competitivo, e fomentar o bem-estar econômico da sociedade. Entre as atividades do Banco Central estão manter a inflação sob controle e garantir, para a população, o fornecimento de dinheiro em espécie. 
+
+Back to back: Operação em que a compra e a venda de mercadoria ocorre sem sua efetiva entrada ou saída do Brasil. Não há mais necessidade de autorização do Banco Central para a realização dessas operações. 
+
+Balança comercial: Registra os valores das importações e das exportações de mercadorias. Se o valor das exportações superar o das importações, diz-se que a balança comercial apresenta um superávit. Se ocorrer o contrário, há um déficit. 
+
+Balança de serviços: Registra as receitas e despesas de diversos tipos de transação (serviços), destacando-se transportes, seguros, viagens internacionais, royalties, assistência técnica, lucros e juros. 
+
+Balanço de pagamentos: Registro de todas as transações econômico-financeiras realizadas por um país com os demais países. Os componentes do balanço de pagamentos estão agrupados em: transações correntes, conta capital, conta financeira, erros e omissões, e resultado global. 
+
+BDRs: Brazilian Depositary Receipts: Títulos representativos de valores mobiliários emitidos por instituição depositária no país, cujo lastro são valores mobiliários de empresas estrangeiras e depositados na instituição custodiante de programa de BDR no exterior. 
+
+Bear Market: Bear Market, que em tradução livre, significa “Mercado do Urso”, é a expressão usada para definir períodos em que a Bolsa de Valores enfrenta desvalorizações acompanhadas de pessimismo por parte dos investidores. 
+
+Beige Book: O “Livro Bege” é um relatório resumido das condições econômicas em cada um dos distritos regionais do Federal Reserve, o banco central dos Estados Unidos. 
+
+Benchmark: Padrão de referência utilizado para comparar rentabilidade entre investimentos, títulos, taxas de juros. Por exemplo: na administração das Reservas Internacionais, o Banco Central usa uma carteira de referência (benchmark), escolhida antecipadamente e que reflete objetivos e preferências de longo prazo quanto à relação risco-retorno e às restrições de liquidez. 
+
+Beta: Medida de risco diversificável de uma ação. O coeficiente beta pode ser visto como um índice do grau do retorno relativo de uma ação em relação ao retorno do mercado (Ibovespa). 
+
+BID: Banco Interamericano de Desenvolvimento. Instituição internacional com sede em Washington, Estados Unidos, criada em 1959, para prestar ajuda financeira aos países da América Latina e do Caribe. 
+
+Bird: Banco Internacional para Reconstrução e Desenvolvimento, mais conhecido como Banco Mundial. 
+
+Blue Chip: Termo usado para designar as ações de empresas de maior dimensão e que apresentam menor variabilidade de curto prazo nos preços, além de terem maior liquidez e maior participação no volume de negócios das Bolsas de Valores. 
+
+Bônus (bonds): Obrigações de renda fixa, similares às notas promissórias, que são emitidas por empresas, bancos ou governos. Um bônus é um certificado de dívida no qual o emissor se compromete a pagar um montante específico de juros em intervalos predeterminados durante um período de tempo, além de pagar também o montante da emissão na data de vencimento. Como o bônus é um instrumento de dívida (renda fixa), o comprador é um credor da empresa, e não um acionista como no caso do comprador de ações. 
+
+Bônus de Subscrição: Termo usado para designar obrigações negociáveis emitidas por uma empresa que dão direito à subscrição de novas ações desta empresa, dentro de um prazo estabelecido e por um preço que esteja de acordo com o limite do aumento de capital autorizado em seu estatuto. Caso o acionista desista de efetuar a compra durante este período, ele perderá o direito à subscrição e não terá direito à restituição do dinheiro pago antecipadamente. 
+
+Breakeven: Breakeven significa “ponto de equilíbrio” (também chamado breakeven point), e acontece quando os ganhos de uma empresa se igualam aos custos, tanto variáveis quanto fixos, e posteriormente ultrapassam essa marca para assim gerar lucros para o seu negócio. 
+
+Bull Market: Mercado em alta ou em que os participantes esperam alta dos preços e queda dos yields (oposto de bear market). 
+
+Letra: C
+Call: Opção de compra. Quando um investidor compra uma opção de compra, ele paga um prêmio para adquirir o direito de comprar um determinado ativo financeiro por um preço previamente determinado durante o prazo de vigência ou no vencimento da opção. 
+
+Capex: Capex é a sigla do termo, em inglês, Capital Expenditure, que significa “despesas de capitais”. Sendo assim, entra no Capex a parcela dos recursos da empresa que será destinada a bens de capital. 
+
+Capital aberto (Companhia de): Uma empresa de capital aberto tem valores mobiliários, como ações, por exemplo, registrados na CVM (Comissão de Valores Mobiliários), e admitidos à negociação no mercado de títulos e valores mobiliários, de bolsa ou de balcão. 
+
+Carteiras recomendadas: Conjunto de investimentos recomendados. Confira todas as carteiras da XP. 
+
+C-Bond: Brazil Capitalization Bond: Principal título de dívida externa do país, o C-Bond foi emitido como parte da renegociação da dívida brasileira em 1994 (Plano Brady), com vencimento em 2014. A maior parte destes títulos foi trocada pelos A-Bonds, em operação realizada em 2005. 
+
+CDB: A sigla CDB significa Certificado de Depósito Bancário, que é um título de renda fixa nominativo (ou seja, em nome de uma pessoa) emitido pelos bancos (título de emissão bancária) e caixas econômicas, que tem como função captar dinheiro e financiar suas atividades. Em troca deste empréstimo de recursos ao banco, ele devolve ao investidor a quantia aplicada mais o juro acordado no momento do investimento. 
+
+CDI: O CDI, ou Certificado de Depósito Interbancário, é uma taxa de juros utilizada nos empréstimos entre os bancos. Ela é usada como principal índice dos investimentos de renda fixa (aqueles que possuem uma rentabilidade previsível). 
+
+CDS: O credit default swap (CDS) é um instrumento de proteção contra um evento de crédito – neste caso, um default (inadimplência). Os compradores efetuam pagamentos periódicos aos vendedores, antes da data de vencimento do crédito, e os vendedores assumem o risco, tendo obrigação de pagar ao comprador da proteção todos os prêmios e juros devidos, na data de vencimento, caso haja um incumprimento do emitente da dívida. O instrumento é cotado em pontos-base (1 ponto-base = 1%), a taxa em cima do valor protegido que o comprador paga periodicamente para o vendedor da proteção. 
+
+Circuit Breaker: Mecanismo utilizado pelas bolsas para controlar a volatilidade excessiva no pregão. Toda vez que o índice da Bolsa brasileira bate 10% de queda, as negociações são interrompidas por 30 minutos. 
+
+Commercial Paper: Termo em inglês que denomina uma categoria de títulos de dívida emitidos por empresas, no mercado local ou internacional, e cujos recursos são usados para financiar as atividades de curto prazo da empresa ou necessidades de capital de giro, como a compra de estoques, pagamento de fornecedores etc. O prazo mínimo destes títulos é de 30 dias e o máximo de 360 dias. 
+
+Commodities: Commodities são substâncias ou produtos primários, minerais ou agrícolas, normalmente insumos para a produção de bens acabados, cuja precificação é determinada por padrões específicos de composição e qualidade, o que as tornam perfeitamente intercambiáveis com os de sua mesma espécie. São exemplos: soja em grão, cobre, minério de ferro, petróleo brent. 
+
+Copom: Comitê de Política Monetária do Banco Central. 
+
+Covenant: Cláusula muito comum a contratos de emissão de dívida corporativa. Funciona como uma proteção ao credor, ao estabelecer restrições que devem ser observadas pela empresa (ex: limite de endividamento). Em caso de não cumprimento, há possibilidade de vencimento antecipado da dívida, dependendo do que estiver previsto em contrato. 
+
+CRA: Os certificados de recebíveis são títulos de renda fixa de crédito privado que representam uma promessa de pagamento futuro em dinheiro. Dentro dessa modalidade de ativos atrelados a recebíveis, o Certificado de Recebíveis do Agronegócio (CRA) é um investimento para financiar atividades ligadas ao agronegócio. 
+
+CRI: Os Certificado de Recebíveis Imobiliários (CRI) são títulos de renda fixa de crédito privado que representam la promessa de um pagamento futuro referente a imóveis. Tratam-se de títulos lastreados em créditos imobiliários, representativos de parcelas de um direito creditório. Neste caso, o investidor de CRI ajuda a financiar o mercado imobiliário ao antecipar os créditos que serão recebidos pelo setor. 
+
+Cross selling: Também conhecida como venda cruzada, o cross selling é uma técnica que explora uma venda garantida para fazer outra. Ela acontece quando um cliente faz a compra de um ou mais produtos ou serviços além da compra inicial. 
+
+Cupom: Taxa determinada no momento da emissão de um título de renda fixa, pela qual um emissor se compromete a pagar juros em intervalos periódicos. 
+
+Curva de Phillips: Curva de Phillips é uma teoria macroeconômica que mostra a relação entre desemprego e inflação no curto prazo. 
+
+Custo Brasil: Denominação genérica dada a uma série de custos de produção, ou despesas incidentes sobre a produção, que tornam difícil ou desvantajoso para o exportador brasileiro colocar seus produtos no mercado internacional, ou então tornam inviável ao produtor nacional competir com os produtos importados. 
+
+CVM: Comissão de Valores Mobiliários. Uma das principais metas da CVM é estimular a livre concorrência entre as instituições financeiras do país, assegurando ainda que as pessoas possam investir em ambientes seguros e transparentes. 
+
+Letra: D
+D+0, +1: Terminologia usada no mercado para definir data em que se realizou la operação e a data em que se realiza a liquidação e/ou conclusão da mesma operação. Por exemplo: uma operação D+2 significa que a instituição financeira precisa de 2 dias para efetivar a operação. 
+
+D0, D1: Terminologia usada na indústria de fundos de investimento, que serve para definir o dia em que é feita a conversão das cotas em reais, ou vice-versa. Por exemplo: uma aplicação em D0 significa que a conversão ocorre no próprio dia da solicitação. 
+
+Darf: O Documento de Arrecadação de Receitas Federais é uma via pela qual a Receita Federal brasileira recebe pagamentos de impostos. 
+
+Data: É a data do dia da negociação denominada em termo de dias úteis para a B3. 
+
+Data “Ex”: Dia em que a ação começa a ser negociada na Bolsa de Valores sem direito a proventos, como dividendos ou juros sobre capital próprio. 
+
+Day trade: Day trade é uma operação em Bolsa de Valores que busca rendimentos com compra e venda de ações e outros ativos obrigatoriamente no mesmo dia, pela mesma corretora, por conta e ordem de um mesmo comitente, e liquidadas por meio do mesmo agente de compensação. 
+
+Debênture: As debêntures são títulos de dívida de médio e longo prazos (a partir de dois anos) que podem ser emitidos por Sociedades Anônimas de capital aberto ou fechado, ou seja, empresas privadas, com a exceção de bancos (que emitem títulos semelhantes, mas que são chamados de CDBs). 
+
+Default: Inadimplemento. Não pagamento, por parte de um devedor, dos juros e do principal, à medida que vencem, ou não cumprimento de qualquer outra obrigação estabelecida em um contrato para emissão de títulos. Em caso de inadimplemento, os detentores de obrigações podem reivindicar ativos do emitente para reaver seus créditos. 
+
+Déficit: Em contabilidade, é um excesso de pagamentos em relação às receitas. Nas finanças públicas, fala-se em déficit orçamentário quando as despesas são superiores à arrecadação, e em déficit da balança comercial quando o valor total das importações é superior ao total das exportações. Nas contas do governo, o déficit pode ser considerado déficit primário (inclui as receitas e as despesas do governo, não consideradas as financeiras) e déficit nominal (que considera também as financeiras). 
+
+Deflação: Deflação é quando acontece queda nos preços de produtos e serviços de forma contínua sem duração definida. 
+
+Derivativos: Derivativos financeiros são ativos que estão vinculados a outros ativos, como ações, índices, dólar, petróleo, café e soja. Isso significa que eles não possuem um valor intrínseco, pois o seu preço depende do valor base do ativo de referência. 
+
+Deságio: Desconto que se aplica a um título em relação ao seu valor ao par, que é o valor definido de acordo com as condições contratuais de remuneração do título. O deságio em relação ao valor ao par pode se dar por queda na qualidade do devedor, por elevação da taxa de juros de mercado em relação à taxa contratada no título, entre outros fatores. Se as taxas de mercado estão maiores que as do título, este sofre deságio porque é a forma de compensar sua baixa rentabilidade em relação às condições de mercado. 
+
+Direito de Subscrição: É o direito preferencial oferecido pela empresa aos atuais acionistas para a aquisição de um novo lote de ações, em quantidade proporcional ao número de ações que já possuem. Os acionistas poderão exercer este direito ou transferi-lo a terceiros, através de venda desse direito em pregão. Também conhecido como direito de preferência. 
+
+Dívida Líquida: Também chamada de endividamento líquido, consiste no saldo de empréstimos e financiamentos, após reduzido o caixa da empresa. No geral, considera-se que quanto maior o volume de dívida em relação às disponibilidades financeiras, mais endividada é a empresa. Quando a quantidade de caixa é superior à quantidade da dívida, considera-se que a empresa é “aplicadora líquida” ou que possui um “endividamento líquido negativo”. 
+
+Dívida Líquida/EBITDA: Relação entre a dívida líquida e o EBITDA, é uma das métricas mais comumente utilizadas na análise de crédito como medida da alavancagem. Em contratos de dívida que possuem cláusulas contratuais (covenants), costuma ser o principal indicador a ser monitorado, uma vez que demonstra o quanto do crescimento da dívida está sendo acompanhado pelo crescimento do resultado operacional. 
+
+Dividend Yield: O dividend yield é calculado a partir do valor de dividendos pagos pela empresa, geralmente numa janela de 12 meses projetadas no futuro, divido pelo preço da ação. 
+
+Dividendo: Dividendos são partes dos lucros obtidos por uma empresa de capital aberto. Esses dividendos são distribuídos entre todos os acionistas da empresa, de acordo com o volume de investimento de cada um. 
+
+Dovish: A origem vem da palavra dove, pomba em português. Sinaliza uma conduta do Banco Central mais confiante de que o cenário de inflação não será um problema, e, portanto, pendente a adotar uma política monetária expansionista ou menos restritiva para estimular a economia. 
+
+DPA: Dividendo por ação. Termo usado em análise fundamentalista para o cálculo do indicador de dividend yield e em análise financeira para o cálculo do dividend payout. O DPA de uma ação reflete a soma de todos os dividendos e proventos pagos por uma empresa a seus acionistas de uma determinada classe de ações por um determinado período de tempo. 
+
+Duration: Duration é o prazo médio ponderado de recebimentos dos fluxos de um título. Um ativo que não paga juros ou amortização até o vencimento terá sua duration equivalente ao prazo do título. Já aqueles que pagam fluxos ao longo da duração, possuem duration inferior ao prazo. 
+
+Letra: E
+EBIT: Earnings Before Interest and Taxes – lucro antes de juros e impostos. Em português, LAJIR – resultado líquido do período, acrescido dos tributos sobre o lucro e das despesas financeiras líquidas das receitas financeiras. 
+
+EBITDA: Sigla em inglês para Earnings Before Interests, Taxes, Depreciation and Amortization, ou em português Lucro antes dos Juros, Impostos, Depreciação e Amortização (LAJIDA), é um indicativo do potencial de geração de caixa operacional da empresa, sem levar em consideração os efeitos de receitas e despesas financeiras, impostos, depreciação e amortização. 
+
+EBITDA/Despesas Financeiras: Também conhecido como Índice de Cobertura de Juros (ICJ), é um indicador da saúde financeira da empresa, pois mede a capacidade da empresa em honrar com as despesas de juros de seus empréstimos a partir de seu potencial de geração de caixa operacional (EBITDA), servindo também como um índice de solvência, que é a capacidade da empresa cumprir os seus compromissos. Considera-se que empresas com ICJ abaixo de uma vez (1x) podem ter dificuldade em arcar com o pagamento das despesas financeiras. 
+
+Emolumento: Os emolumentos, no contexto de investimento em renda variável, são taxas de negociação da Bolsa de Valores em transações de compra e venda de ativos financeiros. 
+
+Estagflação: Período de inflação alta e estagnação da economia. 
+
+ETF: Exchange Traded Funds: fundo de investimento com cotas negociadas na Bolsa de Valores, também chamados de “fundos de índice”. 
+
+Letra: F
+Fato Relevante: Qualquer decisão de acionista controlador, deliberação da assembleia geral ou dos órgãos de administração da companhia aberta, ou qualquer outro ato ou fato de caráter político-administrativo, técnico, negocial ou econômico-financeiro ocorrido ou relacionado aos seus negócios que possa influir de modo ponderável: na cotação dos valores mobiliários de emissão da companhia aberta ou a eles referenciados; na decisão dos investidores de comprar, vender ou manter aqueles valores mobiliários; ou na decisão dos investidores de exercer quaisquer direitos inerentes à condição de titular de valores mobiliários emitidos pela companhia ou a eles referenciados. 
+
+Fed: O Federal Reserve, também conhecido apenas como “Fed”, é o Banco Central dos Estados Unidos. 
+
+Federal Funds Rate (Fed Funds): Principal taxa de juros norte-americana, através da qual os bancos norte-americanos emprestam ou tomam emprestado recursos no mercado interbancário. 
+
+FGC: O Fundo Garantidor de Créditos (FGC) é uma entidade privada e sem fins lucrativos que administra mecanismos de proteção a titulares de crédito contra possíveis problemas de instituições financeiras. De forma resumida, FGC garante o pagamento ao credor caso a instituição financeira coberta pelo fundo não consiga honrar com seus compromissos, em casos de decretação de intervenção ou liquidação extrajudicial. Para mais informações, acesse o site do FGC: www.fgc.org.br 
+
+FIDC: A sigla significa Fundo de Investimentos em Direitos Creditórios e é um investimento de renda fixa. Seu rendimento está atrelado a uma taxa previamente acordada, ou seja, o investidor sabe desde o início a rentabilidade que vai receber ao final da aplicação. 
+
+Fluxo de Caixa de Financiamento: Destaca como a empresa alocou recursos nas despesas de capital, ou seja, em capex, seja de manutenção, modernização ou expansão, incluindo aquisições de outras marcas ou empresas. 
+
+Fluxo de Caixa de Investimento: Destaca como a empresa alocou recursos nas despesas de capital, ou seja, em capex, seja de manutenção, modernização ou expansão, incluindo aquisições de outras marcas ou empresas. 
+
+Follow-on: O follow-on é um processo que ocorre quando uma companhia de capital aberto, que já possui ações na Bolsa, decide ofertar mais ações no mercado. Nesse caso, ela, obrigatoriamente, já fez um IPO anteriormente e agora vai retornar ao mercado vendendo mais ações. 
+
+FOMC: Federal Open Market Comittee. O FOMC realiza oito reuniões regulares por ano. Nessas reuniões, o comitê analisa as condições econômicas e financeiras, determina a orientação adequada da política monetária e avalia os riscos para os seus objetivos de longo prazo de estabilidade de preços e crescimento econômico sustentável. 
+
+Free float: É a porcentagem do capital uma empresa que não está em mãos de acionistas estratégicos (com participação superior a 5% do capital total da empresa), estando livre para negociação no mercado). 
+
+Letra: G
+Ganho de Capital: É o lucro obtido na venda de qualquer ativo, físico ou financeiro, quando o preço de venda supera o preço de aquisição. 
+
+Golden share: Parcela do capital da empresa (cuja venda está sendo negociada) que irá permanecer em poder do antigo controlador e que possui características especiais, como poder de veto no caso de votação de matérias de interesse estratégico. 
+
+Guidance: Informação que uma empresa de capital aberto fornece ao mercado, como uma indicação ou estimativa de desempenho futuro desta empresa. 
+
+Letra: H
+Hard Landing: Refere-se a uma queda abrupta na atividade econômica, caracterizada por uma rápida contração do PIB, aumento do desemprego, e queda nos investimentos. 
+
+Hawkish: A origem vem da palavra hawk, falcão em português. Sinaliza uma conduta do Banco Central preocupada com os riscos inflacionários, e, portanto, pendente a adotar uma postura monetária mais dura, com subidas mais fortes na taxa de juros, ainda que isso possa prejudicar o emprego e a atividade no curto prazo. 
+
+Hedge: Estratégia usada para compensar investimentos de risco. Por exemplo, o ato de tomar uma posição em outro mercado (futuros, por exemplo) oposta à posição no mercado à vista, para minimizar o risco de perdas financeiras em uma alteração de preços adversa. 
+
+High Yield: Alta taxa de retorno. Em geral se refere a títulos, ou empréstimos de empresas, que pagam juros excessivamente altos. 
+
+Home Broker: É a plataforma online que conecta os investidores que querem vender ações com aqueles que querem comprar. 
+
+Letra: I
+Ibovespa: Principal índice da Bolsa, o Ibovespa mede o desempenho das ações de empresas com grande volume de negociação na B3. Ele é calculado por uma média de performance das ações mais negociadas nos últimos meses pela Bolsa. 
+
+IFIX: Indicador do desempenho médio das cotações dos fundos imobiliários negociados nos mercados de bolsa e de balcão organizado da B3. 
+
+Inadimplência: Descumprimento de obrigações no tempo, no lugar e na forma devidos, podendo ou não ser sanado. 
+
+Índice Beta: Entre os fundos de investimento, o índice beta representa a sensibilidade do fundo em relação a determinado índice de mercado, calculado pelo retorno excedente do fundo sobre a taxa livre de risco, dividido pelo retorno do índice de mercado. Em outras palavras, o índice indica o comportamento do fundo frente às alterações do índice de mercado. 
+
+Índice de Sharpe: Parâmetro estatístico que mede a relação entre retorno e risco de um fundo de investimento, dada pelo retorno excedente do fundo sobre a taxa livre de risco, dividido pela volatilidade do fundo. Em outras palavras, o índice mede o quanto de retorno excedente que o fundo entrega, para cada unidade de risco que toma. Em geral, o índice de Sharpe é mais utilizado para fundos de ações e multimercado. 
+
+Inflação: Inflação é o nome dado ao aumento generalizado dos preços de produtos e serviços de um país. Este conceito é um dos mais populares dentro da economia, pois impacta a população como um todo, incluindo consumidores, empresários e governos. 
+
+Insider trader: Alguém com informação privilegiada sobre empresas com ações negociadas em bolsa e usa essa vantagem ilegalmente para ganhar dinheiro no mercado em detrimento de outros investidores. 
+
+Insolvência: Uma empresa é decretada tecnicamente insolvente pelos seus credores quando não consegue arcar com o pagamento das suas contas ou dívidas nos prazos estabelecidos. 
+
+Intraday: Período observado desde a abertura até o fechamento do pregão em Bolsa de Valores. 
+
+Investment grade: Termo usado para qualificar empresas ou governos com boa capacidade de pagamento. Grau de Investimento: ratings acima de ‘BBB-’ em escala global, o que significa que são menos arriscados. 
+
+IOF: Imposto sobre Operações Financeiras. Esse imposto é pago por pessoas físicas e jurídicas que realizam operações de crédito (empréstimos, câmbio e seguros) ou operações relativas a títulos ou valores mobiliários. 
+
+IPCA: Índice Nacional de Preços ao Consumidor Amplo, considerado o termômetro oficial da inflação no Brasil. 
+
+IPO: A sigla IPO significa “Initial Public Offering” ou “Oferta Pública Inicial”, traduzido para o português. Ela descreve um evento realizado na Bolsa de Valores em que a empresa, pela primeira vez, oferece a oportunidade a investidores de se tornarem sócios por meio da compra de ações. 
+
+Letra: J
+JCP: Juros sobre Capital Próprio: forma de remuneração aos acionistas. Diferentemente do dividendo, que é classificado como parte do lucro líquido da empresa, os juros sobre capital próprio entram como despesa antes do lucro para a empresa, o que faz com que ela não tenha que arcar com o pagamento de imposto de renda sobre o valor. 
+
+Joint Venture: Joint Venture consiste em uma união de empresas, sendo capaz de proporcionar a criação de uma outra empresa. Essa união, que pode ser realizada entre duas ou até mais empresas, tem como intuito trazer uma série de vantagens para todos os envolvidos. 
+
+Letra: L
+LAJIDA: Lucros Antes de Juros, Impostos, Depreciação e Amortização. Ver EBITDA. Esse indicador ajuda a entender os resultados da operação de uma empresa. Portanto, grande parte dos analistas acredita que ele é o cálculo mais próximo para saber o andamento operacional da empresa em um determinado período. 
+
+LAJIR: Lucro Antes de Juros e Imposto de Renda. Ver EBIT. Esse indicador indica os lucros antes de juros e tributos, apenas, do resultado da empresa com suas atividades principais, ou seja, é um lucro contábil, por isso, não representa a geração de caixa operacional da empresa. 
+
+LCA: Letra de Crédito do Agronegócio é um título de renda fixa emitido por instituições financeiras públicas e privadas. 
+
+Letra de Câmbio: Instrumento de captação usado pelas sociedades de crédito, financiamento e investimento que é emitido com base em uma transação comercial. Trata-se de uma operação estruturada de forma a obter recursos que serão eventualmente direcionados para financiamento de crédito ao consumidor final. 
+
+Letras Financeiras: As Letras Financeiras são títulos de renda fixa de médio e longo prazos (superior a dois anos) emitidos por instituições financeiras com a finalidade de aumentar (e alongar) seu perfil de capitalização. Em alguns casos, podem ser usadas como parte do capital dos bancos no cálculo do Índice de Basileia. Assim como as outras emissões bancárias, como Certificado de Depósito Bancário (CDB), Letras de Crédito do Agronegócio (LCA) e Letras do Crédito Imobiliário (LCI), os investidores emprestam dinheiro às instituições financeiras (como bancos), que, em troca, oferecem remuneração além do pagamento do principal, geralmente, atrelada ao CDI. No entanto, diferentemente desses outros títulos, as LFs não são cobertas pela garantia do Fundo Garantidor de Crédito (FGC), o que as torna mais arriscadas comparativamente. Por este motivo, pagam em geral rentabilidades maiores. 
+
+LFT: Letra Financeira do Tesouro. Título público federal de remuneração pós-fixada, dada pela variação da taxa Selic acumulada desde a data-base até a data de vencimento do título. 
+
+Liquidez: Grau de negociabilidade de um título, uma ação ou um bem e sua possibilidade de conversão em dinheiro vivo (resgate). 
+
+Liquidez Corrente: Calculada pela razão entre o Ativo Circulante e o Passivo Circulante classificados no Balanço Patrimonial, é um indicador financeiro que mostra a capacidade da empresa de quitar todas as suas obrigações de curto prazo, ou seja, considera os valores previstos de entrada de caixa e de saída de caixa no horizonte de até doze meses. 
+
+LTN: Tesouro Prefixado sem Juros Semestrais. A Letra do Tesouro Nacional (LTN) é um ativo de renda fixa prefixado, emitido pelo Tesouro Nacional. Ou seja, no momento da compra, o investidor sabe quando o título irá render ao ano até o vencimento. 
+
+Lucro Bruto: Indicador que faz parte do demonstrativo de resultado de uma empresa, e que é determinado como sendo o lucro obtido pela empresa depois de se deduzir da receita líquida de vendas o custo de mercadorias vendidas. 
+
+Lucro Líquido: Lucro disponível aos acionistas, ajustado para eventuais despesas ou receitas extraordinárias. 
+
+Lucro Líquido por Ação: Lucro líquido disponível aos acionistas depois de ajustes para despesas ou receitas extraordinárias dividido pelo número total de ações. 
+
+Lucro Operacional: Lucro obtido pela empresa depois de se deduzir da receita líquida de vendas o custo de mercadoria vendida, as despesas de pessoal, as despesas administrativas, as despesas financeiras e outras despesas operacionais. 
+
+Letra: M
+Malha Fina: Quando você envia a sua declaração de Imposto de Renda, ela é analisada pelos sistemas da Receita Federal. São verificadas as informações que você declarou e comparadas com informações fornecidas por outras entidades que também entregam declarações à Receita, como empresas, instituições financeiras, planos de saúde e outros. Se for encontrada alguma diferença entre as informações declaradas por você e as informações apresentadas pelas outras entidades, sua declaração será separada para uma análise mais profunda. É o que se chama de malha fiscal, ou “malha fina” como é popularmente conhecida. 
+
+Marcação a mercado: Na marcação a mercado, a taxa utilizada para atualização do título é a que estiver sendo negociada no mercado, que costuma se alterar diariamente. 
+
+Market share: Participação de mercado de uma empresa ou grupo dentro do seu segmento de atuação. 
+
+Letra: N
+No Landing: Este termo é menos comum, mas pode ser interpretado como uma situação em que a economia não passa por nenhum tipo específico de pouso (landing), seja suave ou duro. Pode significar uma continuidade do crescimento econômico sem grandes alterações na trajetória, ou pode indicar uma incerteza sobre a direção futura da economia, em que não há um claro caminho, e o impacto na inflação é incerto. 
+
+Letra: O
+Oferta Inicial de Ações (IPO): A sigla IPO significa “Initial Public Offering” ou “Oferta Pública Inicial”, traduzido para o português. Ela descreve um evento realizado na Bolsa de Valores em que a empresa, pela primeira vez, oferece a oportunidade a investidores de se tornarem sócios por meio da compra de ações. Esse acontecimento também é chamado de abertura de capital. A partir deste momento, a empresa tem parte do seu patrimônio negociado na Bolsa de Valores por meio de ações. 
+
+Opções: Investimentos que garantem ao investidor o direito, por um período determinado, de comprar ou vender um ativo – geralmente ações – por um valor pré-determinado em uma data específica no futuro. 
+
+Operação compromissada: Operação de compra ou de venda de um ativo, cumulada com compromisso de revenda ou de recompra do mesmo ativo. 
+
+Opex: Opex vem do inglês Operational Expenditure, que significa em português “despesas operacionais”. Em outras palavras, entra no Opex todo o montante que a empresa investe em bens operacionais. 
+
+Ordem: Instrução dada por um cliente a uma corretora de valores, para a execução de compra ou venda de valores mobiliários. 
+
+Overnight: Indica as aplicações financeiras feitas no open market em um dia para serem resgatadas no dia seguinte. 
+
+Letra: P
+Paraíso Fiscal: Denominação usada para países que praticam alíquotas de impostos bem mais baixas que a média dos demais. Por isso, atraem cidadãos e empresas interessadas em usufruir da baixa tributação. Em geral, são países de menor população. 
+
+Passivo Circulante: Soma de todos os passivos de uma empresa cujo vencimento é inferior a um ano. Em geral inclui contas como fornecedores, dívida de curto prazo, imposto a pagar etc. 
+
+Patrimônio Líquido: O patrimônio líquido é o principal indicador sobre a saúde e o valor contábil de uma empresa. Dentro do balanço patrimonial, ele destaca a diferença entre os ativos e os passivos da empresa. No entanto, para chegar dentro dessa conta, existem tantas outras que compõem esse número. 
+
+Penny stocks: Penny stock em tradução livre do inglês significa “tostões”. São ativos negociadas na Bolsa de Valores por preços na casa de centavos (no caso do Brasil, em real, a moeda atual no Brasil). 
+
+PIB: O Produto Interno Bruto é a soma de todos os bens e serviços finais produzidos por um país, estado ou cidade. O PIB é avaliado de forma trimestral e anual. Os resultados, então, são comparados com o trimestre ou o ano anterior, chegando-se assim ao número que vai indicar ou não o crescimento econômico e de atividade do Brasil. Ao analisar o resultado do PIB, é possível avaliar como a produtividade do país variou, comparar com as economias de diferentes países e ainda chegar ao PIB per capita (a divisão do total pelo número de habitantes do país). 
+
+Pis-Pasep: O Pis-Pasep é o fundo contábil instituído em 1975 mediante a unificação do fundo do Programa de Integração Social (PIS) com o fundo do Programa de Formação do Patrimônio do Servidor Público (Pasep), ambos criados em 1970. 
+
+Ponto-Base (PB): Escala em que 100 pontos-base representam um ponto percentual. 
+
+Preço-alvo: Indica o potencial de valorização ou desvalorização de uma ação e serve para definir se uma ação está cara ou barata. 
+
+Private Equity: Tipo de investimento que consiste em fundos de gestão ativa em que são adquiridas participações em empresas de capital fechado. 
+
+Put: Opção de venda, que dá o direito ao titular de vender o ativo-objeto pelo preço de exercício na data de vencimento, se for vantajoso ao comprador da Put. 
+
+Letra: Q
+Quiet period: Período de silêncio. Nesse período, a empresa, seus administradores, bem como os acionistas controladores e demais participantes da oferta, ficam impedidos ou limitados de divulgar informações e projeções sobre si mesmos e ainda sobre a oferta, excetuadas as informações necessárias e requeridas por lei. 
+
+Letra: R
+Rating: O rating é uma nota que uma agência classificadora de risco de crédito atribui a um governo, uma empresa ou emissão. Há também ratings de projetos, bancos, seguradoras, fundos e créditos estruturados. 
+
+RDB: Recibo de Depósito Bancário. Com prazo de vencimento predefinido, o RDB conta com rentabilidade fixada no ato de sua emissão, pré ou pós-fixada. No final do prazo contratado, o investidor recebe o valor aplicado (principal), acrescido da remuneração prevista. O RDB pode ser emitido por bancos comerciais, múltiplos, de desenvolvimento e de investimento, e por sociedades de crédito, financiamento e investimento. Por ser um título nominativo, intransferível, não é admitida negociação em mercado secundário. Ele pode ser resgatado junto à instituição emissora antes do prazo contratado, desde que decorrido o prazo mínimo de aplicação. Antes do prazo mínimo não são auferidos rendimentos. 
+
+Receita: Em contabilidade, é a soma de todos os valores recebidos em dado período (um dia, um mês, um ano). Em uma empresa comercial, a receita é formada pelas vendas à vista, pela parte recebida referente às vendas a crédito e pelos eventuais rendimentos de aplicações financeiras. No orçamento público, receita é a soma das arrecadações de impostos, taxas, contribuições, multas etc. Os rendimentos de fonte certa compõem a receita ordinária, enquanto os incertos ou eventuais formam a receita extraordinária. 
+
+Recuperação Judicial: A Recuperação Judicial é um processo legal que suspende a cobrança de dívidas por parte de credores para que possam ser renegociadas, evitando o fechamento da empresa, demissões e calotes. 
+
+Resultado bruto: Lucro obtido pela empresa depois de se deduzir o custo de mercadorias vendidas da receita líquida de vendas. 
+
+Resultado operacional: Indicador do lucro obtido pela empresa depois de se deduzir da receita líquida de vendas o custo de mercadoria vendida, as despesas de pessoal, as despesas administrativas, as despesas financeiras e outras despesas operacionais. 
+
+Risco-País: O risco-país, que também pode ser chamado de risco soberano, é um conceito econômico que expressa a probabilidade de insolvência de um país frente aos investidores estrangeiros. 
+
+ROE: ROE é a sigla em inglês para “Return on Equity”, que pode ser traduzido ao pé da letra por “Retorno sobre o capital”. Este indicador fundamentalista mede a capacidade de uma empresa agregar valor a ela mesma usando seus próprios recursos. Este indicador mensura a rentabilidade de uma empresa ao revelar o quanto de lucro ela consegue gerar com o dinheiro dos acionistas, demonstrando estabilidade e o seu potencial. Dificilmente uma empresa com ROE alto por muitos anos vai ter um desempenho negativo. 
+
+ROI: Retorno de Investimento. Traduzindo do inglês como “Return on Investment”, é uma forma de analisar setores diferentes por meio de uma mesma ótica: entender se é viável dar continuidade a um processo de investimento, esperando uma rentabilidade que seja superior ao valor aportado em um determinado período. 
+
+Royalties: Valor pago pelo direito de exploração comercial de uma marca, patente, produto ou obra original. 
+
+Letra: S
+Securitização: Operação de financiamento em que o empréstimo (ou dívida) é convertido em títulos negociáveis. 
+
+Selic: Sistema Especial de Liquidação e de Custódia. É a plataforma de negociação exclusiva de instituições financeiras para compra e venda de títulos públicos. 
+
+Short squeeze: Movimento brusco de valorização de uma ação, em que investidores que estão “vendidos a descoberto” (apostando na queda na ação) são levados a encerrarem as suas posições. 
+
+Small-caps: Small Caps é o termo utilizado para se referir às empresas de menor capitalização. Para uma empresa ser considerada Small Cap, ela deve estar fora da lista das ações que representam 85% do mercado na B3, a Bolsa brasileira. Não há um limite fixo de valor de mercado que inclui ou exclui uma companhia dessa categoria. 
+
+Soft Landing: Refere-se a uma desaceleração controlada da atividade econômica, em que a economia passa de um período de crescimento robusto para um crescimento mais moderado, sem entrar em recessão. Um “soft landing” é caracterizado por uma redução suave do crescimento econômico, mantendo desemprego em níveis baixos e estabilidade nos mercados financeiros. 
+
+Spin-off: Movimento de separação de uma área ou negócio de uma empresa já estabelecida no mercado. Muitas vezes é utilizada como uma técnica financeira para ajudar empresas na captação de recursos para áreas específicas de negócio que demandam grande volume de recursos para expansão. 
+
+Split: Split ou desdobramento de ações é quando uma empresa na Bolsa decide dividir e desmembrar suas ações para tentar torná-las mais acessíveis aos investidores individuais. Diferentemente de uma emissão de novas ações, o split não dilui a participação acionária dos acionistas existentes. Quando uma empresa declara um desdobramento de ações, o preço de suas ações diminui, mas o valor total de mercado do acionista permanece exatamente o mesmo. 
+
+Spread: O spread bancário é a diferença financeira entre o que o banco paga a um investidor para obter os recursos e o que ele cobra para emprestar esses mesmos recursos. Em termos mais técnicos, é a diferença entre a taxa de empréstimo e a taxa de captação. 
+
+Startup: Uma startup é uma empresa nova com um modelo de negócios escalável, repetível e uma ideia inovadora que provoca impacto na sociedade, seja com um produto ou um serviço que resolve um problema. 
+
+Stop-gain: O stop Gain é um tipo de ordem de venda ou de recompra (trade vendido) que, em tradução livre, significa “parar ganho”. Trata-se de uma estratégia e também de uma ferramenta muito utilizada no mercado de ações, pois, com ela, o investidor pode programar o encerramento de suas posições de forma automática quando elas atingirem um valor estabelecido previamente. 
+
+Stop-loss: Stop Loss, ou, “parar perda”, como na tradução literal, é uma espécie de ordem de compra ou venda, que pode ser programada pelo investidor ou corretora para ser disparada automaticamente caso um determinado ativo atinja um determinado parâmetro. 
+
+Straddle: Termo que descreve uma operação na qual o investidor negocia um mesmo número de opções de compra (call) e de venda (put) de um mesmo ativo com preço de exercício e data de vencimento idênticos. 
+
+Subscrição: Termo usado no mercado financeiro para determinar o lançamento de ações por uma sociedade anônima, sendo que os recursos captados devem ser usados para investimento de acordo com as necessidades da empresa. 
+
+Superávit primário: É a diferença entre as receitas não financeiras do governo (tributos, taxas, lucros das estatais, multas) e suas despesas não financeiras (que excluem juros pagos, resultados negativos do Banco Central, entre outras). Quando se agregam ao resultado primário as despesas e receitas financeiras, tem-se o resultado nominal. O resultado primário costuma ser uma das metas quantitativas da política fiscal porque é dependente de ações no presente, enquanto o resultado nominal tem despesas não controláveis, pois dependentes da dívida constituída em exercícios anteriores. 
+
+Superquarta: No mercado financeiro, é um termo bastante usado para definir o dia em que tanto a decisão do Comitê de Política Monetária (Copom) no Brasil quanto a do Comitê Federal de Mercado Aberto (FOMC, na sigla em inglês) nos EUA sobre as taxas básicas de juros de seus respectivos países são divulgadas. 
+
+Swap: Tipo de derivativo em que as partes trocam fluxos de caixa de dois ativos diferentes. 
+
+Swap cambial: O swap cambial, então, é uma troca de indexadores feita para gerenciar as taxas de reajuste e controlar o câmbio. 
+
+Swing trade: O swing trade é uma estratégia usada para compra e venda de ativos nos tradings de curto ou médio prazos na Bolsa de Valores, considerada, ainda, como uma das mais famosas. A estratégia do swing trade consiste, basicamente, em monitorar as tendências do mercado no período superior a um dia. As posições costumam durar cerca de 2 a 14 dias. Para isso, o trader que opera por essa metodologia toma decisões partindo mais de uma análise gráfica, mas pode usar também fundamentalista ou mista. 
+
+Letra: T
+Tag along: Direito dos outros acionistas de receber um percentual do valor pago pelas ações dos controladores em caso de venda do controle da empresa. 
+
+Tape reading: O tape reading é uma técnica que acompanha o fluxo de negociação da Bolsa de Valores. Ele se dá a partir da leitura dos negócios fechados, como indica a própria tradução “leitura de fita”, mostrando ao operador em quais papéis existe um maior fluxo de investimentos. 
+
+Taxa DI: Taxa de Depósito Interbancário: calculada com base na média ponderada dos juros utilizados em operações de empréstimos, com prazo de um dia, realizadas entre instituições financeiras, conhecidas como Depósitos Interbancários (DI). A Taxa DI normalmente segue um valor muito próximo da taxa Selic, que é a taxa básica de juros da economia. 
+
+Taxa Selic: A Selic é a taxa básica de juros da economia brasileira. O significado da sigla é Sistema Especial de Liquidação e Custódia. Trata-se de um sistema usado pelo governo (mais precisamente pelo Banco Central) para controlar emissão, compra e venda de títulos. 
+
+Temporada de resultados: Período em que as empresas divulgam suas demonstrações financeiras. 
+
+Tesouro Direto: O Tesouro Direto é um programa do Tesouro Nacional e da B3 (antes conhecida como BM&F Bovespa) que foi criado em 2002 pelo Tesouro Nacional (secretaria do Governo Federal, responsável por administrar os recursos financeiros que entram nos cofres públicos), para compartilhar com qualquer brasileiro a negociação de títulos públicos federais de forma simples, rápida e online. O funcionamento é bem simples: você empresta seu dinheiro ao Governo Federal, que precisa captar recursos para financiar projetos de educação, saúde e outros. Assim, você se torna credor do governo e recebe o valor emprestado com as devidas correções de juros. 
+
+Taxa interna de retorno (TIR): É a taxa de desconto utilizada para determinar se vale a pena fazer um determinado investimento. O cálculo da taxa interna de retorno de uma ação leva em consideração: o valor de mercado daquela empresa na Bolsa e a estimativa de fluxo de caixa para os próximos anos. Dessa forma, chegamos a uma estimativa de uma Taxa Interna de Retorno (%) em termos reais, ou seja, acima da inflação. 
+
+Títulos pós-fixados: Nos títulos pós-fixados, a rentabilidade da aplicação é composta por uma taxa predefinida no momento da compra do título mais a variação de um indexador, que pode ser a taxa básica de juros, a Selic, ou a inflação, que é medida pelo IPCA. 
+
+Títulos públicos: Os títulos públicos são aqueles emitidos pelos governos federal, estadual ou municipal com o objetivo de arrecadar recursos que são necessários para ajudar no pagamento da dívida pública ou arcar com outras despesas do governo. 
+
+Top pick: Papel com melhor recomendação. 
+
+TR: A Taxa Referencial é utilizada como indexador da remuneração da poupança, do FGTS (Fundo de Garantia do Tempo de Serviço) e de boa parte dos contratos de financiamento imobiliários. 
+
+Transações correntes: Parte do balanço de pagamentos que inclui as contas de comércio de mercadorias (balança comercial), balança de serviços e as transferências unilaterais. 
+
+Treasuries: As Treasuries são títulos de dívida emitidos pelo governo dos EUA com a finalidade de levantar recursos para alguma finalidade específica. Assim como governos de outros países, os EUA também têm a opção de se financiar via aumento de impostos ou endividamento. Esta dívida pode ser com organismos internacionais, como o Fundo Monetário Internacional (FMI) ou com investidores como nós, que compram títulos públicos esperando receber o valor investido, corrigido, no futuro. 
+
+Letra: U
+Units: Units são ativos compostos por mais de uma classe de valores mobiliários, como uma ação ordinária e um bônus de subscrição, por exemplo, negociados em conjunto. As units são compradas e/ou vendidas no mercado como uma unidade. 
+
+Upside: Diferença, em termos percentuais, entre o preço-alvo e a cotação atual das ações. 
+
+Letra: V
+Vacância: A vacância é um termo utilizado para se referir a algo que está vago ou sem ocupação. No ramo imobiliário, o termo é utilizado para se referir aos espaços sem ocupação de um determinado empreendimento imobiliário. 
+
+Valor de mercado: O valor de mercado (também chamado de market cap) de uma companhia listada em bolsa é calculado multiplicando a base acionária – ou seja, a quantidade de ações da empresa – pelo preço individual de cada classe de ações. 
+
+Valor nominal: O valor nominal de uma ação é o valor que é mencionado no estatuto social da empresa e que determina o valor de uma ação representativa de seu capital. 
+
+Valuation: Valuation (em português, “Avaliação de Empresas”), é uma ferramenta de avaliação de uma empresa que tem o objetivo de determinar o seu valor de forma justa no mercado, levando em conta o seu potencial, tudo colocado em termos financeiros. 
+
+Venture Capital: Investimentos em empresas que estão em sua fase inicial e têm potencial de crescimento. 
+
+VGBL: Vida Gerador de Benefício Livre. 
+
+Volatilidade: Parâmetro estatístico que mede as oscilações no preço ou retorno de um ativo, em determinado período. No universo dos fundos de investimento, em geral a volatilidade é calculada para uma janela de 12 meses, utilizando-se a série de retornos diários do fundo, sendo calculada pelo desvio-padrão da série. 
+
+VPA: Valor patrimonial por ação, calculado dividindo-se o patrimônio líquido pela quantidade total de ações (ou lote de 1.000 ações) da empresa. Também é chamado de valor nominal da ação. 
+
+VPL: O valor presente líquido é calculado como sendo a diferença entre o valor inicial investido no projeto e o valor presente dos fluxos de caixa projetados deste mesmo projeto. É também conhecido como valor atual líquido. Um projeto cujo VPL é negativo, normalmente deve ser rejeitado. 
+
+Letra: W
+WACC: Weighted Average Cost of Capital: Custo Médio Ponderado de Capital. O índice é usado no mercado financeiro para identificar o lucro que a organização deve obter, com base no capital investido, para que o investimento valha a pena. Para isso, todos os custos que a companhia buscou para financiar seu capital são calculados, resultando em uma média única, que é analisada. 
+
+Waiver: Dispensa de uma exigência ou de obrigações, geralmente de pagamento total ou parcial (principal, juros etc. ), de um país ou instituição frente a outros países ou instituições. 
+
+Warrant: Título que garante o direito, mas não a obrigação, de compra ou venda de ações de uma empresa a um preço fixo após um determinado período. 
+
+Fonte: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/

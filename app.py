@@ -12,7 +12,7 @@ b3 = pd.read_csv("data/AcoesIndices_2025-06-11.csv", sep=";")
 
 st.set_page_config(page_title="Crew-AI", layout="wide")
 
-st.title("Análise de Ações: B3 📈")
+st.title("Análise de Ativos: B3 📈")
 
 resetar = st.button("Resetar Dashboard")
 
@@ -26,7 +26,7 @@ if 'dashboard_gerado' not in st.session_state or resetar:
 if not st.session_state.dashboard_gerado:
     st.write("Um conjunto de Inteligencias Artificiais, preocupada em fornecer insights baseado no seu prompt!")
 
-    acoes = st.multiselect("Informe os símbolos das ações", [acao for acao in b3['Symbols']], max_selections=5)
+    acoes = st.multiselect("Informe os símbolos dos ativos", [acao for acao in b3['Symbols']], max_selections=5)
     start_date = st.date_input("Digite a data de início", value=datetime(2024, 1, 1))
     end_date = st.date_input("Digite a data final", value=datetime.now())
     
@@ -66,7 +66,7 @@ if st.session_state.dashboard_gerado:
 
 
     # Captura a nova pergunta do usuário
-    if prompt := st.chat_input("Ex: Qual ação teve o maior P/L?"):
+    if prompt := st.chat_input("Ex: Qual ativo teve o maior P/L?"):
 
         # Adiciona a pergunta do usuário ao histórico e exibe na tela
         st.session_state.messages.append({"role": "user", "content": prompt})

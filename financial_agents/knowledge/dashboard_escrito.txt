@@ -2,29 +2,65 @@
 
 2. Análise Comparativa:
 
-Ação: [VALE3.SA]
-- Preço Inicial (R$): 42.69
-- Preço Final (R$): 52.87
-- Variação (%): 23.85
-- Volume Total: 37320527400
+Ação: [COGN3.SA]
+- Preço Inicial (R$): 2.00
+- Preço Final (R$): 2.92
+- Variação (%): 46.30
+- Volume Total: 22777120900
 
-Ação: [PETR4.SA]
-- Preço Inicial (R$): 9.90
-- Preço Final (R$): 31.21
-- Variação (%): 215.41
-- Volume Total: 86942045700
+Ação: [MRFG3.SA]
+- Preço Inicial (R$): 7.12
+- Preço Final (R$): 24.93
+- Variação (%): 249.97
+- Volume Total: 5806265601
+
+Ação: [MDNE3.SA]
+- Preço Inicial (R$): 5.09
+- Preço Final (R$): 25.91
+- Variação (%): 409.41
+- Volume Total: 336212000
+
+Ação: [PINE4.SA]
+- Preço Inicial (R$): 1.26
+- Preço Final (R$): 6.50
+- Variação (%): 413.95
+- Volume Total: 213777945
+
+Ação: [LAVV3.SA]
+- Preço Inicial (R$): 3.62
+- Preço Final (R$): 12.91
+- Variação (%): 256.50
+- Volume Total: 417793400
 
 
 3. Dados Fundamentalistas:
 
-Ação: [VALE3.SA]
-- P/L: 7.01
-- P/VP: 1.12
-- ROE: 0.15
-- Dividend Yield: 14.18
+Ação: [COGN3.SA]
+- P/L: 5.03
+- P/VP: 0.42
+- ROE: 0.09
+- Dividend Yield: 9.14
 
-Ação: [PETR4.SA]
-- P/L: 8.50
-- P/VP: 1.02
+Ação: [MRFG3.SA]
+- P/L: 15.13
+- P/VP: 7.27
 - ROE: 0.12
-- Dividend Yield: 16.37
+- Dividend Yield: 11.37
+
+Ação: [MDNE3.SA]
+- P/L: 6.56
+- P/VP: 1.27
+- ROE: 0.21
+- Dividend Yield: 2.51
+
+Ação: [PINE4.SA]
+- P/L: 5.30
+- P/VP: 1.24
+- ROE: 0.25
+- Dividend Yield: 8.04
+
+Ação: [LAVV3.SA]
+- P/L: 6.15
+- P/VP: 1.62
+- ROE: 0.28
+- Dividend Yield: 4.47

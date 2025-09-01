@@ -1,43 +1,54 @@
 # === Bibliotecas ===
-
+import os
 import yfinance as yf
 import pandas as pd
 import streamlit as st
 import plotly.express as px
+import asyncio
+from dotenv import load_dotenv, find_dotenv
+from langchain.vectorstores import FAISS
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 def importar_dados_yf(stocks, start_date, end_date):
-    historical_data = []
-    fundamental_data = []
-        
-    for symbol in stocks:
+    if stocks == 0 or start_date == 0  or end_date == 0 :
+        return "Ocorreu um Erro! Alguns campos vieram vazios..."
 
-        symbol = symbol + ".SA"
-        ticker = yf.Ticker(symbol)
+    try:
+        historical_data = []
+        fundamental_data = []
+            
+        for symbol in stocks:
 
-        # 🔹 Dados históricos
-        hist = ticker.history(start=start_date, end=end_date)
-        hist = hist.reset_index()
-        hist['Symbol'] = symbol
-        historical_data.append(hist)
+            symbol = symbol + ".SA"
+            ticker = yf.Ticker(symbol)
 
-        # 🔹 Dados fundamentalistas (P/L, P/VP, ROE etc.)
-        info = ticker.info
-        fundamentals = {
-            'Symbol': symbol,
-            'P/L (TTM)': info.get('trailingPE'),   # P/L
-            'P/VP': info.get('priceToBook'),
-            'ROE': info.get('returnOnEquity'),
-            'Dividend Yield': info.get('dividendYield'),
-        }
-        fundamental_data.append(fundamentals)
+            # 🔹 Dados históricos
+            hist = ticker.history(start=start_date, end=end_date)
+            hist = hist.reset_index()
+            hist['Symbol'] = symbol
+            historical_data.append(hist)
 
-    # Exportar CSVs
-    df_prices = pd.concat(historical_data)
-    df_prices.to_csv('data/stock-analysis.csv')
-    dataset_fundamentals = pd.DataFrame(fundamental_data)
-    dataset_fundamentals.to_csv('data/stock-analysis-fundamentals.csv')
+            # 🔹 Dados fundamentalistas (P/L, P/VP, ROE etc.)
+            info = ticker.info
+            fundamentals = {
+                'Symbol': symbol,
+                'P/L (TTM)': info.get('trailingPE'),   # P/L
+                'P/VP': info.get('priceToBook'),
+                'ROE': info.get('returnOnEquity'),
+                'Dividend Yield': info.get('dividendYield'),
+            }
+            fundamental_data.append(fundamentals)
 
-    return df_prices, dataset_fundamentals
+        # Exportar CSVs
+        df_prices = pd.concat(historical_data)
+        df_prices.to_csv('data/stock-analysis.csv')
+        dataset_fundamentals = pd.DataFrame(fundamental_data)
+        dataset_fundamentals.to_csv('data/stock-analysis-fundamentals.csv')
+
+        return df_prices, dataset_fundamentals
+    
+    except Exception:
+        return "Ocorre algum erro ao tentar importar os dados!"
 
 def criar_dashboard(dataset_cotacao, dataset_fund):
 
@@ -67,7 +78,9 @@ def criar_dashboard(dataset_cotacao, dataset_fund):
                 }
         )
 
-        fig.update_traces(hovertemplate='<b>%{customdata[0]}</b><br>Data: %{x}<br>Fechamento: R$ %{y:.2f}<extra></extra>', customdata=dataset_cotacao[['Symbol']])
+        fig.update_traces(
+            hovertemplate='<b>%{fullData.name}</b><br>Data: %{x}<br>Fechamento: R$ %{y:.2f}<extra></extra>'
+        )
         st.plotly_chart(fig)
     
     with tab2:
@@ -149,3 +162,18 @@ def criar_dashboard(dataset_cotacao, dataset_fund):
     dashboard_detalhado.close()
 
     return text
+
+def load_vector_store():
+
+    load_dotenv(find_dotenv())
+    GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+    FAISS_INDEX_PATH = "db"
+    
+    try:
+        asyncio.get_running_loop()
+    except RuntimeError:
+        asyncio.set_event_loop(asyncio.new_event_loop())
+
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004", google_api_key=GOOGLE_API_KEY)
+
+    return FAISS.load_local(FAISS_INDEX_PATH, embeddings, allow_dangerous_deserialization=True)
