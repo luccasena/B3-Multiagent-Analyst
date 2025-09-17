@@ -1,7 +1,7 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from crewai.agents.agent_builder.base_agent import BaseAgent
-from langchain_openai import ChatOpenAI
+from langchain_groq import ChatGroq
 from typing import List
 from dotenv import load_dotenv, find_dotenv
 from .tools.custom_tool import FAISSRAGTool 
@@ -14,14 +14,10 @@ import os
 # === LLM Base ===
 
 load_dotenv(find_dotenv())
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+MODEL = os.getenv("MODEL")
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-llm = ChatOpenAI(
-    model="gpt-4.1-mini",
-    api_key=OPENAI_API_KEY, 
-    temperature=0
-)
+llm = ChatGroq(model=MODEL, api_key=GROQ_API_KEY)
 
 # ======================
 
@@ -45,7 +41,7 @@ class FinancialAgents():
         return Agent(
             config=self.agents_config['analista_financeiro'],
             verbose=True,
-            llm=llm 
+            llm=llm,
         )
 
     @agent
@@ -55,6 +51,7 @@ class FinancialAgents():
             verbose=True,
             llm=llm,
             tools=[FAISSRAGTool()]
+          
         )
     
     @agent
@@ -91,8 +88,9 @@ class FinancialAgents():
     @crew
     def crew(self) -> Crew:
         return Crew(
-            agents=self.agents,
-            tasks=self.tasks,
-            process=Process.sequential,
-            verbose=True,
+            agents = self.agents,
+            tasks = self.tasks,
+            process = Process.sequential,
+            verbose = True,
+
         )

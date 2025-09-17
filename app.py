@@ -54,7 +54,10 @@ if st.session_state.dashboard_gerado:
     st.success(f"Análise gerada para as ações: {', '.join(st.session_state.acoes)}")
     
     # Recria o dashboard a partir dos dados salvos no estado da sessão
-    criar_dashboard(st.session_state.dataset_cotacao, st.session_state.dataset_fund)
+    conteudo_dashboard = criar_dashboard(st.session_state.dataset_cotacao, st.session_state.dataset_fund)
+
+    with open('financial_agents\knowledge\dashboard_escrito.txt', 'w', encoding='UTF-8' ) as f:
+        f.write(conteudo_dashboard)
 
     st.header("💬 Converse com o Agente")
     st.write("Faça perguntas sobre os dados analisados.")
@@ -75,9 +78,6 @@ if st.session_state.dashboard_gerado:
 
         # Chama o agente com a nova pergunta
         with st.spinner("O agente está analisando sua pergunta...", show_time=True):
-            # Adapte sua função crew_ai_project para receber os dados também, se necessário
-            # Ex: resultado = crew_ai_project(prompt, st.session_state.dataset_cotacao, st.session_state.dataset_fund)
-
             with open("financial_agents/knowledge/dashboard_escrito.txt", "r", encoding="UTF-8", ) as arquivo:
                 conteudo = arquivo.read()
 

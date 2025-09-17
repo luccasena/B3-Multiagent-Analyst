@@ -7,7 +7,7 @@ from financials import load_vector_store
 
 class RAGInput(BaseModel):
     """Schema de entrada da tool (validado pelo Pydantic do CrewAI)."""
-    query: str = Field(..., description="Pergunta a ser buscada no índice FAISS")
+    query: str = Field(description="Pergunta a ser buscada no índice FAISS")
 
 class FAISSRAGTool(BaseTool):
     """

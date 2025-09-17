@@ -18,7 +18,7 @@ def crew_ai_project(prompt, conteudo):
     
     result = crew_instance.crew().kickoff(inputs={
                                                     "prompt": prompt,
-                                                    "conteudo": conteudo
+                                                    "conteudo": conteudo,
                                                 })
 
     return result

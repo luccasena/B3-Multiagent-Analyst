@@ -6,7 +6,7 @@ import streamlit as st
 import plotly.express as px
 import asyncio
 from dotenv import load_dotenv, find_dotenv
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 def importar_dados_yf(stocks, start_date, end_date):
@@ -51,9 +51,6 @@ def importar_dados_yf(stocks, start_date, end_date):
         return "Ocorre algum erro ao tentar importar os dados!"
 
 def criar_dashboard(dataset_cotacao, dataset_fund):
-
-    dashboard_detalhado = open("financial_agents/knowledge/dashboard_escrito.txt", encoding='utf-8', mode="w")
-
     text = f""
     
     st.title("Dashboard de Análise de Ativos Financeiros")
@@ -157,9 +154,6 @@ def criar_dashboard(dataset_cotacao, dataset_fund):
                 text += f"\nAção: [{acao}]\n- P/L: {pl:.2f}\n- P/VP: {pvp:.2f}\n- ROE: {roe:.2f}\n- Dividend Yield: {dividend_yield:.2f}\n"
         df_fund = pd.DataFrame(lista_fund)
         st.dataframe(df_fund, use_container_width=True)
-
-    dashboard_detalhado.write(str(text))
-    dashboard_detalhado.close()
 
     return text
 
