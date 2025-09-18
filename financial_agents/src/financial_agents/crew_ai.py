@@ -7,10 +7,6 @@ from dotenv import load_dotenv, find_dotenv
 from .tools.custom_tool import FAISSRAGTool 
 import os
 
-# If you want to run a snippet of code before or after the crew starts,
-# you can use the @before_kickoff and @after_kickoff decorators
-# https://docs.crewai.com/concepts/crews#example-crew-class-with-decorators
-
 # === LLM Base ===
 
 load_dotenv(find_dotenv())
@@ -27,14 +23,6 @@ class FinancialAgents():
 
     agents: List[BaseAgent]
     tasks: List[Task]
-
-    # Learn more about YAML configuration files here:
-    # Agents: https://docs.crewai.com/concepts/agents#yaml-configuration-recommended
-    # Tasks: https://docs.crewai.com/concepts/tasks#yaml-configuration-recommended
-    
-    # If you would like to add tools to your agents, you can learn more about it here:
-    # https://docs.crewai.com/concepts/agents#agent-tools
-# ------------------------------------------------------------------------------
    
     @agent
     def analista_financeiro(self) -> Agent:
@@ -94,3 +82,4 @@ class FinancialAgents():
             verbose = True,
 
         )
+    

@@ -2,7 +2,8 @@
 
 import streamlit as st
 from financial_agents.src.financial_agents.main import crew_ai_project
-from financials import importar_dados_yf, criar_dashboard
+from utils.create_dashboard import create_dashboard
+from utils.yahoo_data import import_data_yf
 import pandas as pd
 from datetime import datetime 
 
@@ -35,12 +36,10 @@ if not st.session_state.dashboard_gerado:
         if acoes and start_date and end_date:
             with st.spinner("Buscando dados e construindo dashboard...", show_time=True):
                 # Armazena os dados no session_state para não perdê-los
-                st.session_state.dataset_cotacao, st.session_state.dataset_fund = importar_dados_yf(acoes, start_date, end_date)
+                st.session_state.dataset_cotacao, st.session_state.dataset_fund = import_data_yf(acoes, start_date, end_date)
                 st.session_state.dataset_cotacao = st.session_state.dataset_cotacao.fillna(0)
                 st.session_state.dataset_fund = st.session_state.dataset_fund.fillna(0)
                 st.session_state.acoes = acoes
-                
-                # "Liga a chave" para indicar que a geração foi concluída
                 st.session_state.dashboard_gerado = True
                 
                 # Força a reexecução do script para entrar no modo "chat"
@@ -54,8 +53,9 @@ if st.session_state.dashboard_gerado:
     st.success(f"Análise gerada para as ações: {', '.join(st.session_state.acoes)}")
     
     # Recria o dashboard a partir dos dados salvos no estado da sessão
-    conteudo_dashboard = criar_dashboard(st.session_state.dataset_cotacao, st.session_state.dataset_fund)
+    conteudo_dashboard = create_dashboard(st.session_state.dataset_cotacao, st.session_state.dataset_fund)
 
+    # Escreve em um arquivo ".txt" o dashboard gerado para entrega-lo em forma de contexto para os agentes.
     with open('financial_agents\knowledge\dashboard_escrito.txt', 'w', encoding='UTF-8' ) as f:
         f.write(conteudo_dashboard)
 
@@ -69,7 +69,7 @@ if st.session_state.dashboard_gerado:
 
 
     # Captura a nova pergunta do usuário
-    if prompt := st.chat_input("Ex: Qual ativo teve o maior P/L?"):
+    if prompt:= st.chat_input("Ex: Qual ativo teve o maior P/L?"):
 
         # Adiciona a pergunta do usuário ao histórico e exibe na tela
         st.session_state.messages.append({"role": "user", "content": prompt})

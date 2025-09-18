@@ -1,9 +1,7 @@
-# financial_agents/src/financial_agents/tools/custom_tool.py
 
-from typing import Optional
 from pydantic import BaseModel, Field
 from crewai.tools import BaseTool
-from financials import load_vector_store
+import  utils.vector_storage as vector_storage
 
 class RAGInput(BaseModel):
     """Schema de entrada da tool (validado pelo Pydantic do CrewAI)."""
@@ -31,7 +29,7 @@ class FAISSRAGTool(BaseTool):
     def model_post_init(self, __context) -> None:  # type: ignore[override]
 
         if self._vectorstore is None:
-            self._vectorstore = load_vector_store()
+            self._vectorstore = vector_storage.load()
 
         if self._retriever is None:
             # ajuste seus kwargs aqui (similarity / mmr)

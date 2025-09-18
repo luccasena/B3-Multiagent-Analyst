@@ -7,12 +7,15 @@ tarefa_gerente:
     - O problema principal apresentado pelo usuário\n
     - Os objetivos que o usuário deseja alcançar\n
     - Caso a pergunta do usuário precisou de alguma explicação técnica, realize uma reflexão sobre a pergunta, por exemplo: O usuário perguntou algo relacionado ao valor do ativo, então você deve pensar qual termo técnico deve ser utilizado para suprir a dúvida do usuário, vamos supor que você decidiu que o termos técnicos podem ser o P/L e o P/VPA, então usando a tool 'rag_tool' utilize dessa reflexão para realizar a busca por similaridade e assim  responder a pergunta. 
+    - Utilize a Tool apenas quando o usuário solicitar uma explicação técnica, ao contrário disso, não precisa utiliza-la.
     - Possíveis abordagens de solução que envolvam análise de dados\n\n
     O objetivo é fornecer um briefing claro para que os demais agentes consigam atuar com precisão.
   expected_output: >
     Relatório técnico com diagnóstico do problema, objetivos do usuário e proposta de solução com base em análise de dados.
   
   agent: gerente_financeiro
+
+  tool: FAISSRAGTool()
 
 tarefa_analista:
   description: >
