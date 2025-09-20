@@ -2,29 +2,41 @@
 
 2. Análise Comparativa:
 
-Ação: [MXRF11.SA]
-- Preço Inicial (R$): 9.13
-- Preço Final (R$): 9.77
-- Variação (%): 7.00
-- Volume Total: 1297116625
+Ação: [TTEN3.SA]
+- Preço Inicial (R$): 10.64
+- Preço Final (R$): 14.35
+- Variação (%): 34.85
+- Volume Total: 526957300
 
-Ação: [BBDC4.SA]
-- Preço Inicial (R$): 20.38
-- Preço Final (R$): 17.58
-- Variação (%): -13.75
-- Volume Total: 63228125564
+Ação: [ABCB4.SA]
+- Preço Inicial (R$): 20.13
+- Preço Final (R$): 23.16
+- Variação (%): 15.06
+- Volume Total: 271384600
+
+Ação: [MMMC34.SA]
+- Preço Inicial (R$): 130.50
+- Preço Final (R$): 205.69
+- Variação (%): 57.61
+- Volume Total: 473203
 
 
 3. Dados Fundamentalistas:
 
-Ação: [MXRF11.SA]
-- P/L: 13.90
-- P/VP: 0.98
-- ROE: 0.11
-- Dividend Yield: 12.28
+Ação: [TTEN3.SA]
+- P/L: 14.14
+- P/VP: 1.59
+- ROE: 0.24
+- Dividend Yield: 1.33
 
-Ação: [BBDC4.SA]
-- P/L: 9.35
-- P/VP: 1.06
-- ROE: 0.12
-- Dividend Yield: 1.30
+Ação: [ABCB4.SA]
+- P/L: 4.54
+- P/VP: 0.85
+- ROE: 0.15
+- Dividend Yield: 9.38
+
+Ação: [MMMC34.SA]
+- P/L: 21.97
+- P/VP: 26.08
+- ROE: 0.95
+- Dividend Yield: 1.32

@@ -33,7 +33,7 @@ def crew_ai_project(prompt, conteudo):
         
 
     except BadRequestError as bre:
-        return """❌ A solicitação enviada ao modelo não foi aceita (Bad Request). 
+        return f"""❌ A solicitação enviada ao modelo não foi aceita (Bad Request). 
             Isso geralmente acontece por parâmetros incorretos ou incompatibilidade com o modelo escolhido.
             f\nDetalhes técnicos: {bre}"""
         

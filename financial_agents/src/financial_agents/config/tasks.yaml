@@ -1,17 +1,22 @@
 tarefa_gerente: 
   description: >
-    Você é o Gerente de Projeto responsável por interpretar a solicitação inicial do usuário.\n
     Analise o seguinte prompt enviado pelo usuário:\n\n
     {prompt} \n\n
     Com base nesse texto, gere um **relatório técnico detalhado** que identifique:\n
     - O problema principal apresentado pelo usuário\n
     - Os objetivos que o usuário deseja alcançar\n
-    - Caso a pergunta do usuário precisou de alguma explicação técnica, realize uma reflexão sobre a pergunta, por exemplo: O usuário perguntou algo relacionado ao valor do ativo, então você deve pensar qual termo técnico deve ser utilizado para suprir a dúvida do usuário, vamos supor que você decidiu que o termos técnicos podem ser o P/L e o P/VPA, então usando a tool 'rag_tool' utilize dessa reflexão para realizar a busca por similaridade e assim  responder a pergunta. 
-    - Utilize a Tool apenas quando o usuário solicitar uma explicação técnica, ao contrário disso, não precisa utiliza-la.
-    - Possíveis abordagens de solução que envolvam análise de dados\n\n
+    - Caso a pergunta do usuário precise de alguma explicação técnica, realize uma reflexão sobre a pergunta. 
+    - Utilize a Tool apenas quando o usuário solicitar uma explicação técnica. Caso contrário, não utilize.\n
+    - Liste possíveis abordagens de solução que envolvam análise de dados.\n\n
     O objetivo é fornecer um briefing claro para que os demais agentes consigam atuar com precisão.
+
   expected_output: >
-    Relatório técnico com diagnóstico do problema, objetivos do usuário e proposta de solução com base em análise de dados.
+    Relatório técnico estruturado contendo:\n
+    - Diagnóstico do problema\n
+    - Objetivos do usuário\n
+    - Termos técnicos relevantes (quando aplicável)\n
+    - Indicação de uso da tool (se necessário)\n
+    - Proposta de solução ou próximos passos baseados em análise de dados.
   
   agent: gerente_financeiro
 
@@ -19,8 +24,7 @@ tarefa_gerente:
 
 tarefa_analista:
   description: >
-      "Você é o Analista de Dados.
-      Com base no relatório produzido pelo Gerente, realize uma análise exploratória detalhada dos dados contidos no dashboard financeiro fornecido.
+      Realize uma análise exploratória detalhada dos dados contidos no dashboard financeiro fornecido.
       Aqui está o conteúdo do dashboard (texto estruturado):
       {conteudo} 
       Realize as seguintes análises:
@@ -35,21 +39,20 @@ tarefa_analista:
 
 tarefa_consultor:
   description: >
-      Você é o Consultor de Investimentos. Seu papel é conversar com o usuário final e ajudá-lo a tomar uma decisão baseada nos dados recebidos.
-
-      Com base no relatório do Gerente (entendimento do problema) e no relatório do Analista (análise dos dados), **gere uma resposta simples, clara e útil, como se estivesse conversando com o usuário por mensagem**.
-
-      Caso o usuário esteja perguntando sobre um conceito técnico (como P/L, ROE, etc.), **explique com clareza e usando exemplos reais das ações analisadas**, mantendo o estilo conversacional.
-
-      Não escreva um relatório formal. Use linguagem de bate-papo. O usuário precisa entender rapidamente se vale a pena investir ou não, e por quê.
-
-      Inclua:
-      - Oportunidades e riscos, com explicações simples.
-      - Sugestões diretas como "vale considerar", "cuidado com", "acompanhe isso de perto".
-      - Um tom humano, próximo e natural.
-
+    Seu papel é conversar com o usuário final e ajudá-lo a tomar uma decisão baseada nos dados recebidos.\n\n
+    Com base no relatório do Gerente (entendimento do problema) e no relatório do Analista (análise dos dados), 
+    **gere uma resposta simples, clara e útil, como se estivesse conversando com o usuário por mensagem**.\n\n
+    Caso o usuário esteja perguntando sobre um conceito técnico (como P/L, ROE, Dividend Yield, etc.), 
+    **explique com clareza**, mantendo o estilo conversacional.\n\n
+    Não escreva um relatório formal. Use linguagem de bate-papo. 
+    O usuário precisa entender rapidamente o questionamento feito.\n\n
+    Inclua:\n
+    - Oportunidades e riscos, com explicações simples\n
+    - Sugestões diretas como "vale considerar", "cuidado com", "acompanhe isso de perto"\n
+    - Um tom humano, próximo e natural
   expected_output: >
-      Uma resposta direta em tom de conversa, com sugestões e recomendações práticas baseadas nas análises anteriores.
+    Uma resposta direta em tom de conversa, com sugestões e recomendações práticas 
+    baseadas nos relatórios anteriores, trazendo clareza e proximidade ao usuário.
   
   agent: consultor_investimentos
 
