@@ -4,9 +4,9 @@ from financial_agents.src.financial_agents.crew_ai import FinancialAgents
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
-def crew_ai_project(prompt, conteudo):
+def crew_ai_project(prompt, conteudo, provider, api_key):
     try: 
-        crew_instance = FinancialAgents()
+        crew_instance = FinancialAgents(provider, api_key)
         
         result = crew_instance.crew().kickoff(inputs={
                                                         "prompt": prompt,
@@ -35,7 +35,7 @@ def crew_ai_project(prompt, conteudo):
     except BadRequestError as bre:
         return f"""❌ A solicitação enviada ao modelo não foi aceita (Bad Request). 
             Isso geralmente acontece por parâmetros incorretos ou incompatibilidade com o modelo escolhido.
-            f\nDetalhes técnicos: {bre}"""
+            \nDetalhes técnicos: {bre}"""
         
     except Exception as e:
-        return f" Aconteceu o erro {e.__cause__}"
+        return f" Aconteceu algum erro inesperado...\n Para maid detalhes: {e}"
