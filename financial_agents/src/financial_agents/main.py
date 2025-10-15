@@ -38,4 +38,4 @@ def crew_ai_project(prompt, conteudo, provider, api_key):
             \nDetalhes técnicos: {bre}"""
         
     except Exception as e:
-        return f" Aconteceu algum erro inesperado...\n Para maid detalhes: {e}"
+        return f" Aconteceu algum erro inesperado...\n Para mais detalhes: {e}"

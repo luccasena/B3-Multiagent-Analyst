@@ -37,15 +37,13 @@ class FAISSRAGTool(BaseTool):
                 search_type="similarity", search_kwargs={"k": 3}
             )
 
-    # Método síncrono chamado pelo CrewAI quando a tool é usada
-    def _run(self, query: str) -> str:  # CrewAI chama _run para execução síncrona
+    def _run(self, query: str) -> str:  
         if not query or not query.strip():
             return "Query vazia. Forneça uma pergunta clara para a busca."
 
         try:
-            docs = self._retriever.get_relevant_documents(query)  # type: ignore[attr-defined]
+            docs = self._retriever.get_relevant_documents(query) 
         except Exception as e:
             return f"Falha ao consultar o índice FAISS: {e}"
 
-        # Concatena o conteúdo básico dos documentos; ajuste conforme seu caso
         return "\n\n".join(d.page_content for d in docs)

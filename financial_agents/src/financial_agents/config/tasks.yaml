@@ -1,26 +1,25 @@
-tarefa_gerente: 
+tarefa_gerente:
   description: >
     Analise o seguinte prompt enviado pelo usuário:\n\n
     {prompt} \n\n
     Com base nesse texto, gere um **relatório técnico detalhado** que identifique:\n
-    - O problema principal apresentado pelo usuário\n
-    - Os objetivos que o usuário deseja alcançar\n
-    - Caso a pergunta do usuário precise de alguma explicação técnica, realize uma reflexão sobre a pergunta. 
-    - Utilize a Tool apenas quando o usuário solicitar uma explicação técnica. Caso contrário, não utilize.\n
+    - O problema principal apresentado pelo usuário.\n
+    - Os objetivos que o usuário deseja alcançar.\n
+    - Caso a pergunta envolva **conceitos fundamentalistas, métricas financeiras ou termos técnicos** (por exemplo: "o que é P/L", "como funciona o ROE", "diferença entre dividend yield e payout"), utilize a **Tool** para buscar e embasar a resposta com informações conceituais relevantes.\n
+    - Caso a pergunta seja puramente operacional ou analítica (ex: “compare empresas X e Y”), não utilize a Tool neste momento.\n
     - Liste possíveis abordagens de solução que envolvam análise de dados.\n\n
-    O objetivo é fornecer um briefing claro para que os demais agentes consigam atuar com precisão.
+    **Atenção:** Sempre que o usuário demonstrar dúvida conceitual ou pedir explicações sobre indicadores, acione a Tool de busca (FAISSRAGTool) para enriquecer a resposta técnica.
 
   expected_output: >
     Relatório técnico estruturado contendo:\n
     - Diagnóstico do problema\n
     - Objetivos do usuário\n
     - Termos técnicos relevantes (quando aplicável)\n
-    - Indicação de uso da tool (se necessário)\n
+    - Indicação de uso da Tool (se necessário)\n
     - Proposta de solução ou próximos passos baseados em análise de dados.
-  
-  agent: gerente_financeiro
 
-  tool: FAISSRAGTool()
+  agent: gerente_financeiro
+  tool: FAISSRAGTool
 
 tarefa_analista:
   description: >
