@@ -2,65 +2,29 @@
 
 2. Análise Comparativa:
 
+Ação: [MXRF11.SA]
+- Preço Inicial (R$): 9.04
+- Preço Final (R$): 9.62
+- Variação (%): 6.45
+- Volume Total: 1318434301
+
 Ação: [PETR4.SA]
 - Preço Inicial (R$): 9.09
-- Preço Final (R$): 31.06
-- Variação (%): 241.53
-- Volume Total: 88619345900
-
-Ação: [MXRF11.SA]
-- Preço Inicial (R$): 9.13
-- Preço Final (R$): 9.80
-- Variação (%): 7.33
-- Volume Total: 1299398205
-
-Ação: [COCA34.SA]
-- Preço Inicial (R$): 31.89
-- Preço Final (R$): 59.30
-- Variação (%): 85.96
-- Volume Total: 45122584
-
-Ação: [ITSA4.SA]
-- Preço Inicial (R$): 7.80
-- Preço Final (R$): 11.42
-- Variação (%): 46.35
-- Volume Total: 43834181612
-
-Ação: [VALE3.SA]
-- Preço Inicial (R$): 31.72
-- Preço Final (R$): 57.92
-- Variação (%): 82.61
-- Volume Total: 38560305300
+- Preço Final (R$): 30.02
+- Variação (%): 230.09
+- Volume Total: 89112574500
 
 
 3. Dados Fundamentalistas:
 
-Ação: [PETR4.SA]
-- P/L: 5.47
-- P/VP: 5.47
-- ROE: 0.18
-- Dividend Yield: 11.87
-
 Ação: [MXRF11.SA]
-- P/L: 14.00
-- P/VP: 0.99
+- P/L: 13.74
+- P/VP: 0.97
 - ROE: 0.11
-- Dividend Yield: 12.24
+- Dividend Yield: 12.47
 
-Ação: [COCA34.SA]
-- P/L: 23.72
-- P/VP: 8.93
-- ROE: 0.42
-- Dividend Yield: 3.20
-
-Ação: [ITSA4.SA]
-- P/L: 8.22
-- P/VP: 1.38
-- ROE: 0.17
-- Dividend Yield: 9.14
-
-Ação: [VALE3.SA]
-- P/L: 8.94
-- P/VP: 1.15
-- ROE: 0.13
-- Dividend Yield: 11.48
+Ação: [PETR4.SA]
+- P/L: 5.13
+- P/VP: 5.29
+- ROE: 0.18
+- Dividend Yield: 12.28
