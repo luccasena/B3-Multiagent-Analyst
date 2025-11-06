@@ -2,29 +2,41 @@
 
 2. Análise Comparativa:
 
-Ação: [MXRF11.SA]
-- Preço Inicial (R$): 9.04
-- Preço Final (R$): 9.62
-- Variação (%): 6.45
-- Volume Total: 1318434301
+Ação: [TTEN3.SA]
+- Preço Inicial (R$): 10.64
+- Preço Final (R$): 16.16
+- Variação (%): 51.86
+- Volume Total: 563725700
 
-Ação: [PETR4.SA]
-- Preço Inicial (R$): 9.09
-- Preço Final (R$): 30.02
-- Variação (%): 230.09
-- Volume Total: 89112574500
+Ação: [AERI3.SA]
+- Preço Inicial (R$): 17.40
+- Preço Final (R$): 4.08
+- Variação (%): -76.55
+- Volume Total: 162763920
+
+Ação: [ABCB4.SA]
+- Preço Inicial (R$): 20.13
+- Preço Final (R$): 23.35
+- Variação (%): 16.01
+- Volume Total: 282621300
 
 
 3. Dados Fundamentalistas:
 
-Ação: [MXRF11.SA]
-- P/L: 13.74
-- P/VP: 0.97
-- ROE: 0.11
-- Dividend Yield: 12.47
+Ação: [TTEN3.SA]
+- P/L: 16.01
+- P/VP: 1.80
+- ROE: 0.24
+- Dividend Yield: 1.18
 
-Ação: [PETR4.SA]
-- P/L: 5.13
-- P/VP: 5.29
-- ROE: 0.18
-- Dividend Yield: 12.28
+Ação: [AERI3.SA]
+- P/L: 0.00
+- P/VP: -3.99
+- ROE: -2.25
+- Dividend Yield: 0.00
+
+Ação: [ABCB4.SA]
+- P/L: 4.54
+- P/VP: 0.85
+- ROE: 0.15
+- Dividend Yield: 9.30
