@@ -142,6 +142,7 @@ class FinancialAgents():
             agents = self.agents,
             tasks = self.tasks,
             process = Process.sequential,
-            verbose = True
+            verbose = True,
+            memory=True
         )
     
