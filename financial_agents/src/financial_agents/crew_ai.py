@@ -45,10 +45,7 @@ def limitar_resposta(output) -> Tuple[bool, str]:
 
 
 def usar_rag_tool(prompt: str) -> str:
-    """
-    Decide se deve acionar o RAG antes da execução da task.
-    Retorna o conteúdo da busca RAG ou o prompt original.
-    """
+
     try:
         if validar_resposta_conceitual(prompt):
             print("Pergunta conceitual detectada. Usando RAG...")
@@ -103,6 +100,7 @@ class FinancialAgents():
             verbose=True,
             llm=self.llm,
         )
+
 # ------------------------------------------------------------------------------
 
     @task

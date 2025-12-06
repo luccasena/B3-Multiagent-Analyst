@@ -16,17 +16,17 @@ def import_data_yf(stocks, start_date, end_date):
             symbol = symbol + ".SA"
             ticker = yf.Ticker(symbol)
 
-            # 🔹 Dados históricos
+            # Dados históricos
             hist = ticker.history(start=start_date, end=end_date)
             hist = hist.reset_index()
             hist['Symbol'] = symbol
             historical_data.append(hist)
 
-            # 🔹 Dados fundamentalistas (P/L, P/VP, ROE etc.)
+            # Dados fundamentalistas (P/L, P/VP, ROE etc.)
             info = ticker.info
             fundamentals = {
                 'Symbol': symbol,
-                'P/L (TTM)': info.get('trailingPE'),   # P/L
+                'P/L (TTM)': info.get('trailingPE'),   
                 'P/VP': info.get('priceToBook'),
                 'ROE': info.get('returnOnEquity'),
                 'Dividend Yield': info.get('dividendYield'),
